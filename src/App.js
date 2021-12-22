@@ -10,6 +10,7 @@ function App() {
     </div>
 
       <h2>Monkeys for $1000 each</h2>
+      <h2>Giraffes for $2000 each</h2>
 
   <h2>#TeamShadyShack</h2>
 
