@@ -8,6 +8,7 @@ function App() {
         <p>Create new components, create content, and practice all the github things.</p>
         <h2>EXOTIC ANIMALS FOR SALE!!</h2>
     </div>
+  <h2>#TeamShadyShack</h2>
   );
 }
 
