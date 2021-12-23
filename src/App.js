@@ -9,6 +9,8 @@ function App() {
 
         <HelloButton/>
 
+      <Button variant="primary">GOOD MORNING</Button>
+
         <h2>EXOTIC ANIMALS FOR SALE!!</h2>
 
     </div>
