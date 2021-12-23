@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  
   return (
     <div className="App">
       <h1 style={{backgroundColor: 'orange'}}>Team Two Tutorial Github Sandbox</h1>
@@ -10,6 +11,7 @@ function App() {
         <HelloButton/>
 
         <h2>EXOTIC ANIMALS FOR SALE!!</h2>
+        <p>Sen stuff</p>
 
     </div>
 
