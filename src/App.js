@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1 style={{backgroundColor: 'orange'}}>Team Two Tutorial Github Sandbox</h1>
+      <h2>Test Commit ju-test</h2>
         <p>Create new components, create content, and practice all the github things.</p>
 
         <HelloButton/>
