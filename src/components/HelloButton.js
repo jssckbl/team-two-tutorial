@@ -1,12 +1,14 @@
 function HelloButton() {
-    return(
+    return <>
+
         <button onClick={sayHello}>Say Hello</button>
         <div id = "print"></div>
-    )
+
+    </>
 }
 
 function sayHello(){
-    document.getElementById("print") = Hello
+    console.log("hello in the console wowie")
 }
 
 export default HelloButton
